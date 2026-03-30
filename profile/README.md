@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JustDevelopmentStudio/.github/main/profile/jds.png" alt="Just Development Studios Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/JustDevelopmentStudio/.github/main/profile/jds.png" alt="Just Development Studios Banner" width="10%">
 
   # Just Development Studios
   ### Premium FiveM Scripting & High-Performance Solutions
