@@ -4,7 +4,7 @@
   # Just Development Studios
   ### Engineering Premium High-Performance Solutions for the FiveM Ecosystem
 
-  [![Discord](https://img.shields.io/discord/1234567890?label=Discord&logo=discord&logoColor=cyan&style=for-the-badge&color=202020)]((https://discord.gg/aDqr5TeUAF))
+  [![Discord](https://img.shields.io/discord/1234567890?label=Discord&logo=discord&logoColor=cyan&style=for-the-badge&color=202020)](https://discord.gg/aDqr5TeUAF)
   [![Store](https://img.shields.io/badge/Store-Tebex-cyan?style=for-the-badge&logo=tebex&logoColor=cyan&color=202020)](https://justdevelopmentstudios.com)
   [![Documentation](https://img.shields.io/badge/Docs-Manual-white?style=for-the-badge&logo=gitbook&logoColor=white&color=202020)](https://justdevelopmentstudios.com/docs)
 
